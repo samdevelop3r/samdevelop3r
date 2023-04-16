@@ -25,7 +25,7 @@
             <a href="https://discordapp.com/users/1096855705253851286">
                 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
             </a>
-            <a href="https://t.me/icarusDev">
+            <a href="https://t.me/samdevelop3r">
                 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
             </a>
         </div>
