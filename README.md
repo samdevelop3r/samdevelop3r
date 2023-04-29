@@ -4,7 +4,7 @@
         <img src="assets/guts.gif"><br>
     </h1>
     <h2 style="text-align: center;">
-        My name is Sam and<br>I am a middle developer<br><br>
+        My name is Sam and<br>I am a developer<br><br>
         <div class="knowledges">
             <b>My knowledges</b><br><br>
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
