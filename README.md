@@ -1,7 +1,7 @@
 <body>
     <h1 style="text-align: center;">
         Welcome to my <b>GitHub</b><br><br>
-        <img src="assets/guts.gif"><br>
+        <img src="assets/thorfinn-vinland-saga.gif"><br>
     </h1>
     <h2 style="text-align: center;">
         My name is Sam<br><br>
