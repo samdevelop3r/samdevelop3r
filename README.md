@@ -1,7 +1,7 @@
 <body>
     <h1 style="text-align: center;">
         Welcome to my <b>GitHub</b><br><br>
-        <img src="assets/thorfinn-vinland-saga.gif"><br>
+        <img src="томасшелби-шелби.gif"><br>
     </h1>
     <h2 style="text-align: center;">
         My name is Sam<br><br>
@@ -23,6 +23,7 @@
             <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
             <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
         </div>
         <div class="messengers">
             <br>Follow me in<br><br>
